@@ -3,4 +3,4 @@
 Alur fitur login:  
 1. Memasukkan email dan password
 2. Memvalidasi masukkan.
-3. Masuk ke halaman beranda website
+3. Masuk ke halaman home website
